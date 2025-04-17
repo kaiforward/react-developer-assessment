@@ -1,3 +1,10 @@
+# Kai Foward - developer assessment
+
+Hi there, thankyou for taking the time to review my assessment this was a fun and interesting challenge. Some of the technologies used such as styled components aren't familiar to me,
+but it was a fun learning process to see how it works, I may have used some patterns that are non-standard for that but im a very quick learner and can pick up new systems without any fuss.
+Lots of the code could be split into more generic components and more files for serperation of logic but I didnt want to spend longer on this than would potentially be expected in this kind of scenario.
+Overall the test took around 4 hours to complete.
+
 # NetConstruct React Developer Assessment
 
 ## Overview
