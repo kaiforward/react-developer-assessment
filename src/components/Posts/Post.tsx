@@ -122,7 +122,7 @@ const Post: React.FC<PostProps> = ({
                 <p>{author.name}</p>
             </Author>
             <div>
-                <h3><StyledLink to={`/posts/${id}`} state={{ name, title }}>{title}</StyledLink></h3>
+                <h2><StyledLink to={`/posts/${id}`} state={{ name, title }}>{title}</StyledLink></h2>
                 <time dateTime={publishDate}>{formattedDate}</time>
                 <p>{summary}</p>
             </div>

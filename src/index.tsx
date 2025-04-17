@@ -10,7 +10,6 @@ import AppContainer from './components/AppContainer';
  */
 
 ReactDOM.render(
-
   <React.StrictMode>
     <BrowserRouter>
       <AppContainer />
